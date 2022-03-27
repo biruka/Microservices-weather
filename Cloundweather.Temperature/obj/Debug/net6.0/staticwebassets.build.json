@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BVJLJ2iyfcgt1ApIcJDXrgtUBQF4A+PF/cb2rIPTIgM=",
+  "Source": "Cloundweather.Temperature",
+  "BasePath": "_content/Cloundweather.Temperature",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

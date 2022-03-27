@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Microservices-weather\Cloundweather.DataLoader\bin\Debug\net6.0\Cloundweather.DataLoader.exe
+C:\Users\user\source\repos\Microservices-weather\Cloundweather.DataLoader\bin\Debug\net6.0\Cloundweather.DataLoader.deps.json
+C:\Users\user\source\repos\Microservices-weather\Cloundweather.DataLoader\bin\Debug\net6.0\Cloundweather.DataLoader.runtimeconfig.json
+C:\Users\user\source\repos\Microservices-weather\Cloundweather.DataLoader\bin\Debug\net6.0\Cloundweather.DataLoader.dll
+C:\Users\user\source\repos\Microservices-weather\Cloundweather.DataLoader\bin\Debug\net6.0\Cloundweather.DataLoader.pdb
+C:\Users\user\source\repos\Microservices-weather\Cloundweather.DataLoader\obj\Debug\net6.0\Cloundweather.DataLoader.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Microservices-weather\Cloundweather.DataLoader\obj\Debug\net6.0\Cloundweather.DataLoader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Microservices-weather\Cloundweather.DataLoader\obj\Debug\net6.0\Cloundweather.DataLoader.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Microservices-weather\Cloundweather.DataLoader\obj\Debug\net6.0\Cloundweather.DataLoader.AssemblyInfo.cs
+C:\Users\user\source\repos\Microservices-weather\Cloundweather.DataLoader\obj\Debug\net6.0\Cloundweather.DataLoader.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Microservices-weather\Cloundweather.DataLoader\obj\Debug\net6.0\Cloundweather.DataLoader.dll
+C:\Users\user\source\repos\Microservices-weather\Cloundweather.DataLoader\obj\Debug\net6.0\refint\Cloundweather.DataLoader.dll
+C:\Users\user\source\repos\Microservices-weather\Cloundweather.DataLoader\obj\Debug\net6.0\Cloundweather.DataLoader.pdb
+C:\Users\user\source\repos\Microservices-weather\Cloundweather.DataLoader\obj\Debug\net6.0\Cloundweather.DataLoader.genruntimeconfig.cache
+C:\Users\user\source\repos\Microservices-weather\Cloundweather.DataLoader\obj\Debug\net6.0\ref\Cloundweather.DataLoader.dll
